@@ -1,4 +1,4 @@
 version: STSv1
 mode: testing
-mx: mail.tutanota.de.
+mx: mail.tutanota.de
 max_age: 604800
